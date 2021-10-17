@@ -7,3 +7,4 @@
 - contributing
 - credits
 - license
+a new line
