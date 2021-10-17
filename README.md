@@ -1,7 +1,9 @@
-# test1
-a repo for testing 
-
-hello, this is a test!
-
-Oh look, yet another change!
-create an issue here
+# Project Name: a test project
+## outlines:
+- Description
+- Table of contents
+- installation 
+- usage
+- contributing
+- credits
+- license
