@@ -11,3 +11,4 @@ a new line2
 another line        
 new line from test acc
 new line from personal acc
+git config user name change
